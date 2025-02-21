@@ -86,3 +86,9 @@ If you were to try and change `@x[0]` directly, it would abide by constant rules
 @x[0] = 30;
   // Error: Constant cannot have it's value reassigned
 ```
+
+## Development
+
+### Initial Development
+
+I'm using [Crafting Interpreters](https://craftinginterpreters.com) as a compiler implementation reference.

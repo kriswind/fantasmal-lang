@@ -1,5 +1,11 @@
 # fantasmal-lang
 
+## Build Dependancies
+
+  `zig`
+
+## The Vision
+
 **Disclaimer** The syntax used in this example is purely for design implementation and is likely non-functional.
 
 ```c
